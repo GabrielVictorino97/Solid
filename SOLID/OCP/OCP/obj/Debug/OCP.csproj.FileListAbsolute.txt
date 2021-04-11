@@ -1,0 +1,7 @@
+D:\Desenvolvimento\SOLID\SOLID\S\OCP\OCP\bin\Debug\OCP.exe.config
+D:\Desenvolvimento\SOLID\SOLID\S\OCP\OCP\bin\Debug\OCP.exe
+D:\Desenvolvimento\SOLID\SOLID\S\OCP\OCP\bin\Debug\OCP.pdb
+D:\Desenvolvimento\SOLID\SOLID\S\OCP\OCP\obj\Debug\OCP.csprojAssemblyReference.cache
+D:\Desenvolvimento\SOLID\SOLID\S\OCP\OCP\obj\Debug\OCP.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\SOLID\SOLID\S\OCP\OCP\obj\Debug\OCP.exe
+D:\Desenvolvimento\SOLID\SOLID\S\OCP\OCP\obj\Debug\OCP.pdb

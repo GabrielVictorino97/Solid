@@ -1,0 +1,7 @@
+D:\Desenvolvimento\SOLID\SOLID\S\DIP\DIP\bin\Debug\DIP.exe.config
+D:\Desenvolvimento\SOLID\SOLID\S\DIP\DIP\bin\Debug\DIP.exe
+D:\Desenvolvimento\SOLID\SOLID\S\DIP\DIP\bin\Debug\DIP.pdb
+D:\Desenvolvimento\SOLID\SOLID\S\DIP\DIP\obj\Debug\DIP.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\SOLID\SOLID\S\DIP\DIP\obj\Debug\DIP.exe
+D:\Desenvolvimento\SOLID\SOLID\S\DIP\DIP\obj\Debug\DIP.pdb
+D:\Desenvolvimento\SOLID\SOLID\S\DIP\DIP\obj\Debug\DIP.csprojAssemblyReference.cache
